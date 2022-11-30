@@ -2,6 +2,6 @@ cadeaux = ["bleu", "rouge", "vert", "jaune", "jaune", "rouge", "rouge", "rouge",
 
 nb = 0
 
-# Compter le nombre de fois que "rouge" apparaît dans la liste avec nb
+# Compter le nombre de fois que "rouge" appAraît dans la liste avec nb
 
 print(f"nombre de cadeaux à refaire = {nb}")

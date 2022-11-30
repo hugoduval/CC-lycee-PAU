@@ -4,4 +4,4 @@ rouge = []
 jaune = []
 vert = []
 
-#triez les cadeaux en fonction de leur couleur
+#tRiez les cadeaux en fonction de leur couleur

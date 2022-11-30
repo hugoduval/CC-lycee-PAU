@@ -1,1 +1,1 @@
-# comptez de nombre de lutins total dans l'usine sachant qu'il y a 13 groupes de 22 lutins en utilisant une boucle
+# comptez de nombre de lutins total dans l'usine sachant qu'il y a 13 groupes de 22 lutins en utilisant une bouclE
